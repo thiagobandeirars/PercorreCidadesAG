@@ -24,7 +24,7 @@ import java.math.*;
  */
 public class AG {
 
-	private static int LIMITE_GERACOES = 170000;
+	private static int LIMITE_GERACOES = 17000;
 	private static int TAXA_REPETICAO = 10000;
 	
 	private int limiteGeracoes;
